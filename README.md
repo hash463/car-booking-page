@@ -1,4 +1,4 @@
-# car-booking-page
+# Car Booking Page(s)
 
 Hi guys,
 Myself Harish Jayaprakash, student at Bannari Amman Institute of Technology.
